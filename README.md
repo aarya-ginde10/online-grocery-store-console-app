@@ -59,11 +59,17 @@ CRUD operations, data structures, and file handling.
 
 # OUTPUTS
 <img width="449" height="459" alt="image" src="https://github.com/user-attachments/assets/00d0b2e6-10e5-4871-a46d-86cdcd0588a7" />
+
 <img width="449" height="358" alt="image" src="https://github.com/user-attachments/assets/39625360-197d-4926-b23b-55103a20693b" />
+
 <img width="454" height="323" alt="image" src="https://github.com/user-attachments/assets/5a75adac-d81e-46a5-adb9-e33db604be1d" />
+
 <img width="474" height="305" alt="image" src="https://github.com/user-attachments/assets/ab4c9da7-c3f2-4e2e-9579-a23bfb9b6d10" />
+
 <img width="472" height="398" alt="image" src="https://github.com/user-attachments/assets/58172bfd-af54-4c05-9951-43508942ae40" />
+
 <img width="475" height="379" alt="image" src="https://github.com/user-attachments/assets/ddbca2a6-8fb4-4d1a-be1d-efdb265a8e62" />
+
 <img width="471" height="139" alt="image" src="https://github.com/user-attachments/assets/878fe1e3-fb3e-4749-bea2-85b245ab1691" />
 
 
