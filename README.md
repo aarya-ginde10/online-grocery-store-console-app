@@ -49,7 +49,10 @@ CRUD operations, data structures, and file handling.
    git clone https://github.com/your-username/online-grocery-store-console-app.git
 
 2. Navigate to the folder
+   ```bash
      cd online-grocery-store-console-app
+   
 
 3. Run the application
+   ```bash
      python main.py
